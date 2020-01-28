@@ -1,0 +1,3 @@
+[submodule "javascript-cs-fundamentals"]
+	path = javascript-cs-fundamentals
+	url = git@github.com:HaysS/javascript-cs-fundamentals.git
