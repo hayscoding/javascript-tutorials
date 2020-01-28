@@ -12,7 +12,7 @@
 ## Install
 
 ```sh
-git clone GITHUB_URL
+git clone https://github.com/HaysS/javascript-tutorials.git
 ```
 
 ## Author
