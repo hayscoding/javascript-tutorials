@@ -5,14 +5,14 @@
   </a>
 </p>
 
-> This is the source code companion for series of tutori
+> This is the source code companion for series of tutorials going over detailed JavaScript topics, right down to multithreading with web workers.
 
 ### 🏠 [Homepage](https://haysstanford.com)
 
 ## Install
 
 ```sh
-git clone GITHUB_URL
+git clone https://github.com/HaysS/javascript-tutorials.git
 ```
 
 ## Author
