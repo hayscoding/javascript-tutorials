@@ -1,3 +1,6 @@
 [submodule "javascript-cs-fundamentals"]
 	path = javascript-cs-fundamentals
 	url = git@github.com:HaysS/javascript-cs-fundamentals.git
+[submodule "big-o-notation"]
+	path = big-o-notation
+	url = git@github.com:HaysS/big-o-notation.git
